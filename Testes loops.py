@@ -21,7 +21,7 @@ while i < 20:
         print('Skipping {}'.format(i))
         continue
     print('Multiplying with {}'.format(i))
-    result = result * 2
+    result = result * 4
     
 print('i:', i)
 print('result:', result)
